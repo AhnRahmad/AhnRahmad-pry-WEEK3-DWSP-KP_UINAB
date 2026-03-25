@@ -39,10 +39,6 @@
 3. Klik "Tambah Koleksi" untuk menambah buku baru
 4. Klik gambar buku untuk melihat cover full-size
 
-## 📸 Preview
-
-![Preview Perpustakaan Digital](assets/images/preview.png)
-*Screenshot tampilan utama sistem katalog buku*
 
 ## 🏛️ Tentang Proyek
 
